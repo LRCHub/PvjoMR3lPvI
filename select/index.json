@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Boo'd Up",
+  "base_artist": "エラ・メイ",
+  "createdAt": "2026-03-13T14:23:24.477619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boo'd Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/01_Boo'd_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boo'd Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/02_Boo'd_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bood Up [muzmo.ru]",
+      "artist": "[muzmo.ru] Ella Mai",
+      "has_synced": true,
+      "path": "select/03_Bood_Up_[muzmo.ru]_[muzmo.ru]_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boo’d Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/04_Boo’d_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boo'd Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/05_Boo'd_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boo'd Up (with Nicki Minaj & Quavo) - Remix",
+      "artist": "Ella Mai feat. Nicki Minaj & Quavo",
+      "has_synced": true,
+      "path": "select/06_Boo'd_Up_(with_Nicki_Minaj_&_Quavo)_-_Remix_Ella_Mai_feat._Nicki_Minaj_&_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boo'd Up (with Nicki Minaj & Quavo) - Remix",
+      "artist": "Ella Mai/Nicki Minaj/Quavo",
+      "has_synced": true,
+      "path": "select/07_Boo'd_Up_(with_Nicki_Minaj_&_Quavo)_-_Remix_Ella_Mai_Nicki_Minaj_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boo'd Up (Remix)",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/08_Boo'd_Up_(Remix)_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boo'd Up (Remix)",
+      "artist": "Ella Mai;Nicki Minaj;Quavo",
+      "has_synced": true,
+      "path": "select/09_Boo'd_Up_(Remix)_Ella_Mai;Nicki_Minaj;Quavo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boo’d Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/10_Boo’d_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ella Mai - Boo'd Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/11_Ella_Mai_-_Boo'd_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ella Mai - Boo'd Up (Audio)",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/12_Ella_Mai_-_Boo'd_Up_(Audio)_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ella Mai – Boo'd Up (Remix) ft. Nicki Minaj & Quavo",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/13_Ella_Mai_–_Boo'd_Up_(Remix)_ft._Nicki_Minaj_&_Quavo_Ella_Mai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vedo - Boo'd Up (Ella Mai Remake)",
+      "artist": "Vedo",
+      "has_synced": true,
+      "path": "select/14_Vedo_-_Boo'd_Up_(Ella_Mai_Remake)_Vedo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boo’d Up",
+      "artist": "Ella Mai",
+      "has_synced": true,
+      "path": "select/15_Boo’d_Up_Ella_Mai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boo'd Up",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Boo'd_Up_Ella_Mai.txt"
+    }
+  ]
+}
